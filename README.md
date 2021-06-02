@@ -25,7 +25,7 @@ IDEs<br/>
 
 ---
 
-![DongWookKim's github stats](https://github-readme-stats.vercel.app/api?username=gospel306&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff&card_width=300)
+![DongWookKim's github stats](https://github-readme-stats.vercel.app/api?username=gospel306&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
 ![DongWookKim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gospel306&hide=tsql&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
 
 <!--
