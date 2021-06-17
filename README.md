@@ -1,6 +1,6 @@
 ### Hi there, I'm Dong Wook Kim 👋
 
-**⚡️Badges :** ![42](https://badgen.net/badge/Born2Code/dongwkim/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg) ![ssafy](https://badgen.net/badge/Ssafy/dongwkim/cyan?cache=86400&icon=https://github.com/gospel306/gospel306/blob/main/img/ssafy.svg)
+**⚡️Badges :** ![42](https://badgen.net/badge/Born2Code/dongwkim/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg) ![ssafy](https://badgen.net/badge/Ssafy/dongwkim/cyan?cache=86400&icon=https://github.com/gospel306/gospel306/img/ssafy.svg)
 
 ---
 
