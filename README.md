@@ -8,8 +8,6 @@
 Now I am a student developer studying in 42Seoul.<br/>
 Also I work for a company as a backend developer.
 
-[![dongwkim's 42 stats](https://badge42.herokuapp.com/api/stats/dongwkim?privacyEmail=true)](https://github.com/gospel306/badge42)
-
 ---
 
 **👷 Skill list**
