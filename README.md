@@ -5,8 +5,8 @@
 ---
 
 🌱 I studied and graduated from ssafy. <br/>
-Now I am a student developer studying in 42Seoul.<br/>
-Also I work for a company as a backend developer.
+Then I studied in 42Seoul.<br/>
+Also I work for a company as a backend developer.<br/>
 
 ---
 
