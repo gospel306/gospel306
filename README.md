@@ -33,7 +33,7 @@ IDEs<br/>
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 
 Cloud<br/>
-<img alt="AWS" src="https://img.shields.io/badge/amazonwebservices-232F3E.svg?style=for-the-badge&logo-amazonwebservices&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 
 WAS<br/>
 <img alt="Apache Tomcat" src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black"/>
