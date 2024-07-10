@@ -37,6 +37,8 @@ Cloud<br/>
 
 WAS<br/>
 <img alt="Apache Tomcat" src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black"/>
+
+Web<br/>
 <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
 
 
